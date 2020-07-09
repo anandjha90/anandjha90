@@ -1,13 +1,12 @@
-### 👋 Hi I'm Anand Jha,an entry level Data Scientist cum Mathematics Specialist @anandlearningacademy 
+### 👋 Hi I'm Anand Jha,an Entry Level Data Scientist.
 Currently pursuing Post Graduate Program in Data Science from SimpliLearn in partnership with Purdue University so as to become a future Data Scientist
 
-Advanced understanding of statistical, algebraic and other analytical techniques coupled with various programming languages and highly motivated to learn,grow and excel in Data Science Industry.
+Having Advanced understanding of statistical, algebraic and other analytical techniques coupled with various programming languages and highly motivated to learn,grow and excel in Data Science Industry.
 
 Overall 2.5 year of experience in development of Web & Enterprise applications using JAVA and J2EE Technologies with Springs and Hibernate framework.
-Have good knowledge of C,C++,Java,Python,R,Javascript & SQL.
+Have good knowledge of **C,C++,Java,Python,R,Javascript & SQL**.
 
-Founder of anandlearningacademy for providing offline & online help in Maths.Having around 5 years of teaching Maths as a subjectand mentoring students for 
-various competitive exams such as IITJEE/BITSAT/COMEDK/CET/VIT,CBSE,ICSE,IB,StateBoard,etc.
+Founder of anandlearningacademy for providing offline & online help in Maths.Having around 5 years of teaching Maths & Science as a subject and mentored students for various competitive exams such as **IITJEE/BITSAT/COMEDK/CET/VIT,CBSE,ICSE,IB,StateBoard,etc**.
 
 Here are some ideas to get you started:
 

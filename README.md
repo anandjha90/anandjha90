@@ -1,6 +1,6 @@
 ### 👋 Hi I'm Anand Jha,an Entry Level Data Scientist.
 Overall 2.5 years of experience in development of Web & Enterprise applications using JAVA and J2EE Technologies with Springs and Hibernate framework.
-Having good knowledge of **C,C++,Java,Python,R,Javascript & SQL**.
+Having good knowledge of **C,Java,Python,R,ML,NLP,Tableau & SQL**.
 
 Having Advanced understanding of statistical, algebraic and other analytical techniques coupled with various programming languages and highly motivated to learn,grow and excel in Data Science Industry.
 

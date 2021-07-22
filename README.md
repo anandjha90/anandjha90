@@ -1,5 +1,6 @@
-### 👋 Hi I'm Anand Jha,an Entry Level Data Scientist.
-Overall 2.5 years of experience in development of Web & Enterprise applications using JAVA and J2EE Technologies with Springs and Hibernate framework.
+### 👋 Hi I'm Anand Jha,working as a Business Analysis Consultant with vast experience in helping clients in their business requirements delivery through data acquisition, analysis and driving insights through machine learning model developments , KPI reporting  and driving business to a higher level.
+.
+Overall 4 years of experience in development of Web & Enterprise applications using JAVA and J2EE Technologies with Springs and Hibernate framework.
 Having good knowledge of **C,Java,Python,R,ML,NLP,Tableau & SQL**.
 
 Having Advanced understanding of statistical, algebraic and other analytical techniques coupled with various programming languages and highly motivated to learn,grow and excel in Data Science Industry.

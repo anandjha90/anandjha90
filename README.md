@@ -1,4 +1,4 @@
-### 👋 Hi I'm Anand Jha,working as a Business Analysis Consultant at EXL Service and moving soon to Unilever....
+### 👋 Hi I'm Anand Jha,working as a Business Analysis Consultant at EXL Service..
 
 Overrall having 6+ years of experience in in helping clients in their business requirements delivery through data acquisition, analysis and driving insights through machine learning model developments , KPI reporting  and driving business to a higher level.
 

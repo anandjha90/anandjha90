@@ -2,7 +2,7 @@
 
 Overrall having 6+ years of experience in in helping clients in their business requirements delivery through data acquisition, analysis and driving insights through machine learning model developments , KPI reporting  and driving business to a higher level.
 
-Having good knowledge of **C,Java,Python,R,ML,NLP,Tableau & SQL**.
+Having good knowledge of **C,Java,Python,R,SQL,AWS,AZURE, SNOWFLAKE , ML,NLP,Tableau & POWERBI **.
 
 Having Advanced understanding of statistical, algebraic and other analytical techniques coupled with various programming languages and highly motivated to learn,grow and excel in Data Science Industry.
 

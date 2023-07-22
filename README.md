@@ -2,7 +2,7 @@
 
 Overall having 6+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through machine learning model developments, KPI reporting  and driving business to a higher level.
 
-Having good knowledge of **C, Java, Python, R, SQL, AWS, AZURE, SNOWFLAKE, Matillion, ML, NLP, Tableau & POWERBI **.
+Having good knowledge of C, Java, Python, R, SQL, AWS, AZURE, SNOWFLAKE, Matillion, ML, NLP, Tableau & POWERBI.
 
 Having an Advanced understanding of statistical, algebraic, and other analytical techniques coupled with various programming languages and am highly motivated to learn, grow and excel in the Data Science Industry.
 

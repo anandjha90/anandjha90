@@ -16,10 +16,9 @@ Strong Communication, Presentation, and Interpersonal skills with excellent prob
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ML Algorithms in order to create an effective chatbot for my website.
+- 🔭 I’m currently working on automating data pipeline using Azure & Matillion in order to create an effective data pipeline and connecting it to Dashboard.
 - 🌱 I’m currently learning about Data Science tools, techniques, AI, ML, NLP, and how to write.
 - 👯 I’m looking to collaborate on written content and building communities
-- 🤔 I’m looking for help with contributions ['ama_sessions'](https://app.slack.com/client/T015K1W04H5/C016T70CJ3T/details/top) from Microsoft.
 - 💬 Ask me about data science, learning,career & how to be an entrepreneur .
 - 📫 How to reach me: [anandjha_1990@yahoo.com](mailto:anandjha_1990@yahoo.com)
 - 😄 Pronouns: He/Him

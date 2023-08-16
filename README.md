@@ -1,6 +1,6 @@
 ### 👋 Hi I'm Anand Jha, working as a Technical Analyst - Data & Analytics @Coforge at Bengaluru, Karnataka, INDIA.
 
-Overall having 6+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through machine learning model developments, KPI reporting  and driving business to a higher level.
+Overall having 7+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through machine learning model developments, KPI reporting  and driving business to a higher level.
 
 Having good knowledge of C, Java, Python, R, SQL, AWS, AZURE, SNOWFLAKE, Matillion, ML, NLP, Tableau & POWERBI.
 

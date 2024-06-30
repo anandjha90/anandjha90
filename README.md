@@ -1,4 +1,4 @@
-### 👋 Hi I'm Anand Jha, working as a Technical Analyst - Data & Analytics @Coforge at Bengaluru, Karnataka, INDIA.
+### 👋 Hi I'm Anand Jha, working as a Project Engineer -AI @IntellectDesignArena at Pune, Maharashtra, INDIA.
 
 Overall having 7+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through machine learning model developments, KPI reporting  and driving business to a higher level.
 

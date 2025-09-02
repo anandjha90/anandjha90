@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Data Science tools, techniques, AI, ML, NLP, and how to write.
 - 👯 I’m looking to collaborate on written content and building communities
 - 💬 Ask me about data science, learning,career & how to be an entrepreneur .
-- 📫 How to reach me: [anandjha_1990@yahoo.com](mailto:anandjha_1990@yahoo.com)
+- 📫 How to reach me: [analyticswithanand@gmail.com](mailto:analyticswithanand@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Internatinally Certified Career Coach & Mentor
 

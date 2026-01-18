@@ -412,11 +412,12 @@ b. The first quartile (Q1),
 c. The median (Q2),   
 d. The third quartile (Q3), and   
 e. The maximum  
-**Question 72: **What is normal/gaussian distribution?  
+
+**Question 72: What is normal/gaussian distribution?**
 Ans: A normal distribution, also known as a Gaussian distribution, is a symmetrical, bell-shaped probability distribution that is fundamental in statistics.  
 Where data is distributed equally on both sides (Left side and Right side)  
 
-Question 73: What is right skewed distribution?**  
+**Question 73: What is right skewed distribution?**  
 Ans: A right-skewed distribution, also known as a positive skew, is a type of distribution where the tail on the right side is longer or fatter than the left side.  
 Example: Income Distribution, Wealth distribution, House prices, Number of Children etc.  
 
